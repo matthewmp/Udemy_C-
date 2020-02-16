@@ -1,0 +1,11 @@
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.csprojAssemblyReference.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfoInputs.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfo.cs
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/bin/Debug/netcoreapp3.1/Enums
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.deps.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.dev.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.pdb
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.pdb

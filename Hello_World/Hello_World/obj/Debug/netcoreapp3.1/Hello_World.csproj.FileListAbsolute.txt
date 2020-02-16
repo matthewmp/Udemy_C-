@@ -1,0 +1,11 @@
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/bin/Debug/netcoreapp3.1/Hello_World
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/bin/Debug/netcoreapp3.1/Hello_World.deps.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/bin/Debug/netcoreapp3.1/Hello_World.runtimeconfig.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/bin/Debug/netcoreapp3.1/Hello_World.runtimeconfig.dev.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/bin/Debug/netcoreapp3.1/Hello_World.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/bin/Debug/netcoreapp3.1/Hello_World.pdb
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/obj/Debug/netcoreapp3.1/Hello_World.csprojAssemblyReference.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/obj/Debug/netcoreapp3.1/Hello_World.AssemblyInfoInputs.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/obj/Debug/netcoreapp3.1/Hello_World.AssemblyInfo.cs
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/obj/Debug/netcoreapp3.1/Hello_World.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Hello_World/Hello_World/obj/Debug/netcoreapp3.1/Hello_World.pdb

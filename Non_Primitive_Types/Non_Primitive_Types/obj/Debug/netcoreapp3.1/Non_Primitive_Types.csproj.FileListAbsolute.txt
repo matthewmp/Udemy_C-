@@ -1,0 +1,11 @@
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/bin/Debug/netcoreapp3.1/Non_Primitive_Types
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/bin/Debug/netcoreapp3.1/Non_Primitive_Types.deps.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/bin/Debug/netcoreapp3.1/Non_Primitive_Types.runtimeconfig.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/bin/Debug/netcoreapp3.1/Non_Primitive_Types.runtimeconfig.dev.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/bin/Debug/netcoreapp3.1/Non_Primitive_Types.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/bin/Debug/netcoreapp3.1/Non_Primitive_Types.pdb
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/obj/Debug/netcoreapp3.1/Non_Primitive_Types.csprojAssemblyReference.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/obj/Debug/netcoreapp3.1/Non_Primitive_Types.AssemblyInfoInputs.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/obj/Debug/netcoreapp3.1/Non_Primitive_Types.AssemblyInfo.cs
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/obj/Debug/netcoreapp3.1/Non_Primitive_Types.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Non_Primitive_Types/Non_Primitive_Types/obj/Debug/netcoreapp3.1/Non_Primitive_Types.pdb

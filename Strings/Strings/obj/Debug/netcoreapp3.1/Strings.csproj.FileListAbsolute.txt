@@ -1,0 +1,11 @@
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/bin/Debug/netcoreapp3.1/Strings
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.csprojAssemblyReference.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
