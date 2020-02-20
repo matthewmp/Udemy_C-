@@ -1,0 +1,11 @@
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/bin/Debug/netcoreapp3.1/Random_Class
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/bin/Debug/netcoreapp3.1/Random_Class.deps.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/bin/Debug/netcoreapp3.1/Random_Class.runtimeconfig.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/bin/Debug/netcoreapp3.1/Random_Class.runtimeconfig.dev.json
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/bin/Debug/netcoreapp3.1/Random_Class.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/bin/Debug/netcoreapp3.1/Random_Class.pdb
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/obj/Debug/netcoreapp3.1/Random_Class.csprojAssemblyReference.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/obj/Debug/netcoreapp3.1/Random_Class.AssemblyInfoInputs.cache
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/obj/Debug/netcoreapp3.1/Random_Class.AssemblyInfo.cs
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/obj/Debug/netcoreapp3.1/Random_Class.dll
+/Users/DukGwang/Documents/Projects/Udemy_C#/Random_Class/Random_Class/obj/Debug/netcoreapp3.1/Random_Class.pdb
